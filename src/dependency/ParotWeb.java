@@ -7,7 +7,7 @@ import org.eclipse.jetty.server.Handler;
 
 import qa.Globals;
 
-public class GanswerHttp {
+public class ParotWeb {
 	static int maxAnswerNum = 100;
 	static int maxSparqlNum = 3;
 	static int defaultPort = 9999;

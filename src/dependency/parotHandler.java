@@ -12,7 +12,7 @@ import org.eclipse.jetty.server.Request;
 import org.eclipse.jetty.server.handler.AbstractHandler;
 
 import rdf.Sparql;
-import qa.GAnswer;
+import qa.Parot;
 import qa.Globals;
 import qa.Matches;
 

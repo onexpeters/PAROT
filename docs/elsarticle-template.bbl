@@ -1,0 +1,348 @@
+\begin{thebibliography}{34}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Inproceedings
+\bibitem[{{A. Fader, S. Soderland}(2011)}]{reverb12}
+\bibinfo{author}{{A. Fader, S. Soderland}, O.~E.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{{Identifying relations for Open Information
+  Extraction}}.
+\newblock In {\it \bibinfo{booktitle}{Proceedings of the 2011 Conference on
+  Empirical Methods in Natural Language Processing (EMNLP)}\/} (pp.
+  \bibinfo{pages}{1535--1545.}).
+\newblock \bibinfo{address}{Edinburgh, UK}.
+\newblock \DOIprefix\doi{10.1016/j.jcrysgro.2013.04.025}.
+%Type = Inproceedings
+\bibitem[{Ahmad \& Hunt(2015)}]{sema2015}
+\bibinfo{author}{Ahmad, S.}, \& \bibinfo{author}{Hunt, B.~J.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Effective Approaches to Attention-based Neural
+  Machine Translation}}.
+\newblock In {\it \bibinfo{booktitle}{In Proceedings of the 2015 Conference on
+  Empirical Meth- ods in Natural Language Processingn}\/}
+  \bibinfo{number}{September} (pp. \bibinfo{pages}{1412--1421}).
+\newblock \DOIprefix\doi{10.1007/978-3-319-28308-1_29}.
+%Type = Article
+\bibitem[{Bordes et~al.(2015)Bordes, Usunier, Chopra \& Weston}]{Bordes2015}
+\bibinfo{author}{Bordes, A.}, \bibinfo{author}{Usunier, N.},
+  \bibinfo{author}{Chopra, S.}, \& \bibinfo{author}{Weston, J.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Large-scale Simple Question Answering with Memory
+  Networks}}.
+\newblock {\it \bibinfo{journal}{CoRR}\/}, . \URLprefix
+  \url{http://arxiv.org/abs/1506.02075}.
+  \href{http://arxiv.org/abs/1506.02075}{\tt arXiv:1506.02075}.
+%Type = Article
+\bibitem[{Bouziane et~al.(2015)Bouziane, Bouchiha, Doumi \& Malki}]{review1}
+\bibinfo{author}{Bouziane, A.}, \bibinfo{author}{Bouchiha, D.},
+  \bibinfo{author}{Doumi, N.}, \& \bibinfo{author}{Malki, M.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Question Answering Systems: Survey and Trends}}.
+\newblock {\it \bibinfo{journal}{Procedia Computer Science}\/},  {\it
+  \bibinfo{volume}{73}\/}, \bibinfo{pages}{366--375}. \URLprefix
+  \url{http://dx.doi.org/10.1016/j.procs.2015.12.005}.
+  \DOIprefix\doi{10.1016/j.procs.2015.12.005}.
+%Type = Article
+\bibitem[{Cai et~al.(2018)Cai, Xu, Zhang, Yang, Li \& Liang}]{sema20p}
+\bibinfo{author}{Cai, R.}, \bibinfo{author}{Xu, B.}, \bibinfo{author}{Zhang,
+  Z.}, \bibinfo{author}{Yang, X.}, \bibinfo{author}{Li, Z.}, \&
+  \bibinfo{author}{Liang, Z.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{An encoder-decoder framework translating natural
+  language to database queries}}.
+\newblock {\it \bibinfo{journal}{IJCAI International Joint Conference on
+  Artificial Intelligence}\/},  {\it \bibinfo{volume}{2018-July}\/},
+  \bibinfo{pages}{3977--3983}.
+%Type = Article
+\bibitem[{Cimiano \& Bielefeld(2011)}]{review2}
+\bibinfo{author}{Cimiano, P.}, \& \bibinfo{author}{Bielefeld, U.}
+  (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{{Is Question Answering fit for the Semantic Web ?: a
+  Survey .}}
+\newblock {\it \bibinfo{journal}{Semantic Web}\/},  {\it
+  \bibinfo{volume}{2}\/}, \bibinfo{pages}{125--155}.
+%Type = Article
+\bibitem[{Cunningham et~al.(2001)Cunningham, Maynard, Bontcheva \&
+  Tablan}]{gate12}
+\bibinfo{author}{Cunningham, H.}, \bibinfo{author}{Maynard, D.},
+  \bibinfo{author}{Bontcheva, K.}, \& \bibinfo{author}{Tablan, V.}
+  (\bibinfo{year}{2001}).
+\newblock \bibinfo{title}{{Gate}}.
+\newblock {\it \bibinfo{journal}{Proceedings of the 40th Annual Meeting on
+  Association for Computational Linguistics - ACL '02}\/},  (p.
+  \bibinfo{pages}{168}). \URLprefix
+  \url{http://portal.acm.org/citation.cfm?doid=1073083.1073112}.
+  \DOIprefix\doi{10.3115/1073083.1073112}.
+%Type = Article
+\bibitem[{Damljanovic et~al.(2011)Damljanovic, Agatonovic \&
+  Cunningham}]{Freya12}
+\bibinfo{author}{Damljanovic, D.}, \bibinfo{author}{Agatonovic, M.}, \&
+  \bibinfo{author}{Cunningham, H.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{{FREyA : An Interactive Way of Querying Linked}}.
+\newblock {\it \bibinfo{journal}{Eswc}\/},  (pp. \bibinfo{pages}{125--138}).
+%Type = Article
+\bibitem[{Diefenbach et~al.(2018)Diefenbach, Both, Singh \& Maret}]{noma2018}
+\bibinfo{author}{Diefenbach, D.}, \bibinfo{author}{Both, A.},
+  \bibinfo{author}{Singh, K.}, \& \bibinfo{author}{Maret, P.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Towards a Question Answering System over the
+  Semantic Web}}.
+\newblock {\it \bibinfo{journal}{Semantic Web}\/},  {\it
+  \bibinfo{volume}{0}\/}, \bibinfo{pages}{1--15}. \URLprefix
+  \url{http://arxiv.org/abs/1803.00832}.
+  \href{http://arxiv.org/abs/1803.00832}{\tt arXiv:1803.00832}.
+%Type = Article
+\bibitem[{Ferr{\'{e}}(2017)}]{sparklis12}
+\bibinfo{author}{Ferr{\'{e}}, S.} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{Sparklis: An expressive query builder for SPARQL
+  endpoints with guidance in natural language}}.
+\newblock {\it \bibinfo{journal}{Semantic Web}\/},  {\it
+  \bibinfo{volume}{8}\/}, \bibinfo{pages}{405--418}.
+  \DOIprefix\doi{10.3233/SW-150208}.
+%Type = Article
+\bibitem[{Gur et~al.(2018)Gur, Yavuz, Su \& Yan}]{wera2018}
+\bibinfo{author}{Gur, I.}, \bibinfo{author}{Yavuz, S.}, \bibinfo{author}{Su,
+  Y.}, \& \bibinfo{author}{Yan, X.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{DialSQL: Dialogue Based Structured Query
+  Generation}}.
+\newblock {\it \bibinfo{journal}{Proceedings of the 56th Annual Meeting of the
+  Association for Computational Linguistics}\/},  (pp.
+  \bibinfo{pages}{1339--1349}). \URLprefix
+  \url{https://www.aclweb.org/anthology/papers/P/P18/P18-1124/}.
+%Type = Inproceedings
+\bibitem[{Hao et~al.(2017)Hao, Zhang, Liu, He, Liu, Wu \& Zhao}]{sema2019}
+\bibinfo{author}{Hao, Y.}, \bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Liu,
+  K.}, \bibinfo{author}{He, S.}, \bibinfo{author}{Liu, Z.},
+  \bibinfo{author}{Wu, H.}, \& \bibinfo{author}{Zhao, J.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{An End-to-End Model for Question Answering over
+  Knowledge Base with Cross-Attention Combining Global Knowledge}}.
+\newblock In {\it \bibinfo{booktitle}{In Proceedings of the 55th Annual Meeting
+  of the Association for Computational Linguistics}\/} (pp.
+  \bibinfo{pages}{221--231}).
+\newblock \DOIprefix\doi{10.18653/v1/p17-1021}.
+%Type = Inproceedings
+\bibitem[{He et~al.(2014)He, Zhang, Liu \& Zhao}]{Casia12}
+\bibinfo{author}{He, S.}, \bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Liu,
+  K.}, \& \bibinfo{author}{Zhao, J.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{CASIA@V2: A MLN-based Question Answering System over
+  Linked Data}}.
+\newblock In {\it \bibinfo{booktitle}{CLEF}\/} \bibinfo{number}{61272332} (pp.
+  \bibinfo{pages}{1249--1259}).
+%Type = Article
+\bibitem[{{Hochreiter, Sepp and Schmidhuber}(1997)}]{sema1997}
+\bibinfo{author}{{Hochreiter, Sepp and Schmidhuber}, J.}
+  (\bibinfo{year}{1997}).
+\newblock \bibinfo{title}{{Long Short-Term Memory}}.
+\newblock {\it \bibinfo{journal}{Neural Computation}\/},  {\it
+  \bibinfo{volume}{9}\/}, \bibinfo{pages}{1--32}.
+%Type = Inproceedings
+\bibitem[{Iyer et~al.(2017)Iyer, Konstas, Cheung, Krishnamurthy \&
+  Zettlemoyer}]{sema201}
+\bibinfo{author}{Iyer, S.}, \bibinfo{author}{Konstas, I.},
+  \bibinfo{author}{Cheung, A.}, \bibinfo{author}{Krishnamurthy, J.}, \&
+  \bibinfo{author}{Zettlemoyer, L.} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{Learning a Neural Semantic Parser from User
+  Feedback}}.
+\newblock In {\it \bibinfo{booktitle}{Proceedings of the 55th Annual Meeting of
+  the Association for Computational Linguistics}\/}.
+\newblock \URLprefix \url{http://arxiv.org/abs/1704.08760}.
+  \href{http://arxiv.org/abs/1704.08760}{\tt arXiv:1704.08760}.
+%Type = Inproceedings
+\bibitem[{Kaufmann et~al.(2006)Kaufmann, Bernstein \& Zumstein}]{Querix12}
+\bibinfo{author}{Kaufmann, E.}, \bibinfo{author}{Bernstein, A.}, \&
+  \bibinfo{author}{Zumstein, R.} (\bibinfo{year}{2006}).
+\newblock \bibinfo{title}{{Querix: A Natural Language Interface to Query
+  Ontologies Based on Clarification Dialogs}}.
+\newblock In {\it \bibinfo{booktitle}{In proceedings of the 5th International
+  Semantic Web Conference (ISWC 2006)}\/} \bibinfo{number}{November} (pp.
+  \bibinfo{pages}{5--6}).
+\newblock \bibinfo{address}{Athens, GA}.
+%Type = Article
+\bibitem[{Klein \& Manning(2003)}]{Klein2003}
+\bibinfo{author}{Klein, D.}, \& \bibinfo{author}{Manning, C.~D.}
+  (\bibinfo{year}{2003}).
+\newblock \bibinfo{title}{{Accurate unlexicalized parsing}}.
+\newblock {\it \bibinfo{journal}{Proceedings of the 41st Annual Meeting on
+  Association for Computational Linguistics - ACL '03}\/},  {\it
+  \bibinfo{volume}{1}\/}, \bibinfo{pages}{423--430}. \URLprefix
+  \url{http://portal.acm.org/citation.cfm?doid=1075096.1075150}.
+  \DOIprefix\doi{10.3115/1075096.1075150}.
+%Type = Article
+\bibitem[{Lehmann \& B{\"{u}}hmann(2011)}]{autosparql12}
+\bibinfo{author}{Lehmann, J.}, \& \bibinfo{author}{B{\"{u}}hmann, L.}
+  (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{{AutoSPARQL: Let users query your knowledge base}}.
+\newblock {\it \bibinfo{journal}{Lecture Notes in Computer Science (including
+  subseries Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}\/},  {\it \bibinfo{volume}{6643 LNCS}\/},
+  \bibinfo{pages}{63--79}. \DOIprefix\doi{10.1007/978-3-642-21034-1_5}.
+%Type = Article
+\bibitem[{Lopez et~al.(2005)Lopez, Pasin, Motta, Hall \& Keynes}]{aqualog12}
+\bibinfo{author}{Lopez, V.}, \bibinfo{author}{Pasin, M.},
+  \bibinfo{author}{Motta, E.}, \bibinfo{author}{Hall, W.}, \&
+  \bibinfo{author}{Keynes, M.} (\bibinfo{year}{2005}).
+\newblock \bibinfo{title}{{AquaLog : An Ontology-Portable Question Answering
+  System for the Semantic Web}}.
+\newblock {\it \bibinfo{journal}{In Proceedings of the 2008 Conference on
+  Semantics in Text Processing}\/},  (pp. \bibinfo{pages}{546--562}).
+  \DOIprefix\doi{10.1007/11431053_37}.
+%Type = Article
+\bibitem[{Marneffe \& Manning(2015)}]{Marneffe2015}
+\bibinfo{author}{Marneffe, M.-c.~D.}, \& \bibinfo{author}{Manning, C.~D.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Stanford typed dependencies manual}}.
+\newblock {\it \bibinfo{journal}{20090110 Httpnlp Stanford}\/},  {\it
+  \bibinfo{volume}{40}\/}, \bibinfo{pages}{1--22}. \URLprefix
+  \url{http://nlp.stanford.edu/downloads/dependencies{\_}manual.pdf}.
+  \DOIprefix\doi{10.1.1.180.3691}.
+%Type = Inproceedings
+\bibitem[{McCrae et~al.(2011)McCrae, Spohr \& Cimiano}]{john2011}
+\bibinfo{author}{McCrae, J.}, \bibinfo{author}{Spohr, D.}, \&
+  \bibinfo{author}{Cimiano, P.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{{Linking lexical resources and ontologies on the
+  semantic web with lemon}}.
+\newblock In {\it \bibinfo{booktitle}{Lecture Notes in Computer Science
+  (including subseries Lecture Notes in Artificial Intelligence and Lecture
+  Notes in Bioinformatics)}\/} (pp. \bibinfo{pages}{245--259}).
+\newblock volume \bibinfo{volume}{6643 LNCS}.
+\newblock \DOIprefix\doi{10.1007/978-3-642-21034-1_17}.
+%Type = Article
+\bibitem[{Sander et~al.(2014)Sander, Waltinger, Roshchin \&
+  Runkler}]{ontologysparql12}
+\bibinfo{author}{Sander, M.}, \bibinfo{author}{Waltinger, U.},
+  \bibinfo{author}{Roshchin, M.}, \& \bibinfo{author}{Runkler, T.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Ontology-Based Translation of Natural Language
+  Queries to SPARQL}}.
+\newblock {\it \bibinfo{journal}{2014 AAAI Fall Symposium Ontology-Based}\/},
+  (pp. \bibinfo{pages}{42--48}).
+  \DOIprefix\doi{10.1016/j.ijmedinf.2012.01.005}.
+%Type = Misc
+\bibitem[{{SPARQL Working Group}(2013)}]{Sparql12}
+\bibinfo{author}{{SPARQL Working Group}} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{SPARQL Query Language for RDF}}.
+\newblock \URLprefix \url{http://www.w3.org/TR/rdf-sparql-query/}.
+%Type = Article
+\bibitem[{Stoilos et~al.(2005)Stoilos, Stamou \& Kollias}]{Stoilos2005}
+\bibinfo{author}{Stoilos, G.}, \bibinfo{author}{Stamou, G.}, \&
+  \bibinfo{author}{Kollias, S.} (\bibinfo{year}{2005}).
+\newblock \bibinfo{title}{{A string metric for ontology alignment}}.
+\newblock {\it \bibinfo{journal}{Lecture Notes in Computer Science (including
+  subseries Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}\/},  {\it \bibinfo{volume}{3729 LNCS}\/},
+  \bibinfo{pages}{624--637}. \DOIprefix\doi{10.1007/11574620_45}.
+%Type = Article
+\bibitem[{Tatu et~al.(2016)Tatu, Balakrishna, Werner, Erekhinskaya \&
+  Moldovan}]{Kextractor12}
+\bibinfo{author}{Tatu, M.}, \bibinfo{author}{Balakrishna, M.},
+  \bibinfo{author}{Werner, S.}, \bibinfo{author}{Erekhinskaya, T.}, \&
+  \bibinfo{author}{Moldovan, D.} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{{Automatic Extraction of Actionable Knowledge}}.
+\newblock {\it \bibinfo{journal}{Proceedings - 2016 IEEE 10th International
+  Conference on Semantic Computing, ICSC 2016}\/},  (pp.
+  \bibinfo{pages}{396--399}). \DOIprefix\doi{10.1109/ICSC.2016.29}.
+%Type = Article
+\bibitem[{Trivedi et~al.(2017)Trivedi, Maheshwari, Dubey \&
+  Lehmann}]{large2017}
+\bibinfo{author}{Trivedi, P.}, \bibinfo{author}{Maheshwari, G.},
+  \bibinfo{author}{Dubey, M.}, \& \bibinfo{author}{Lehmann, J.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{LC-QuAD: A corpus for complex question answering
+  over knowledge graphs}}.
+\newblock {\it \bibinfo{journal}{Lecture Notes in Computer Science (including
+  subseries Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}\/},  {\it \bibinfo{volume}{10588 LNCS}\/},
+  \bibinfo{pages}{210--218}. \DOIprefix\doi{10.1007/978-3-319-68204-4_22}.
+%Type = Article
+\bibitem[{Usbeck et~al.(2018{\natexlab{a}})Usbeck, Gusmita, Saleem \&
+  Ngomo}]{quad9}
+\bibinfo{author}{Usbeck, R.}, \bibinfo{author}{Gusmita, R.~H.},
+  \bibinfo{author}{Saleem, M.}, \& \bibinfo{author}{Ngomo, A. C.~N.}
+  (\bibinfo{year}{2018}{\natexlab{a}}).
+\newblock \bibinfo{title}{{9th challenge on question answering over linked data
+  (QALD-9)}}.
+\newblock {\it \bibinfo{journal}{CEUR Workshop Proceedings}\/},  {\it
+  \bibinfo{volume}{2241}\/}, \bibinfo{pages}{58--64}.
+  \DOIprefix\doi{10.1007/978-3-319-69146-6_6}.
+%Type = Article
+\bibitem[{Usbeck et~al.(2018{\natexlab{b}})Usbeck, Gusmita, Saleem \&
+  Ngomo}]{quad92018}
+\bibinfo{author}{Usbeck, R.}, \bibinfo{author}{Gusmita, R.~H.},
+  \bibinfo{author}{Saleem, M.}, \& \bibinfo{author}{Ngomo, A. C.~N.}
+  (\bibinfo{year}{2018}{\natexlab{b}}).
+\newblock \bibinfo{title}{{9th challenge on question answering over linked data
+  (QALD-9)}}.
+\newblock {\it \bibinfo{journal}{CEUR Workshop Proceedings}\/},  {\it
+  \bibinfo{volume}{2241}\/}, \bibinfo{pages}{58--64}.
+  \DOIprefix\doi{10.1007/978-3-319-69146-6_6}.
+%Type = Article
+\bibitem[{Walter et~al.(2013)Walter, Unger \& Cimiano}]{walter2013}
+\bibinfo{author}{Walter, S.}, \bibinfo{author}{Unger, C.}, \&
+  \bibinfo{author}{Cimiano, P.} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{A corpus-based approach for the induction of
+  ontology lexica}}.
+\newblock {\it \bibinfo{journal}{Lecture Notes in Computer Science (including
+  subseries Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}\/},  {\it \bibinfo{volume}{7934 LNCS}\/},
+  \bibinfo{pages}{102--113}. \DOIprefix\doi{10.1007/978-3-642-38824-8_9}.
+%Type = Article
+\bibitem[{Wang et~al.(2007)Wang, Xiong, Zhou \& Yu}]{panto12}
+\bibinfo{author}{Wang, C.}, \bibinfo{author}{Xiong, M.}, \bibinfo{author}{Zhou,
+  Q.}, \& \bibinfo{author}{Yu, Y.} (\bibinfo{year}{2007}).
+\newblock \bibinfo{title}{{PANTO: A Portable Natural Language Interface to
+  Ontologies}}.
+\newblock {\it \bibinfo{journal}{The Semantic Web: Research and
+  Applications}\/},  (pp. \bibinfo{pages}{473--487}). \URLprefix
+  \url{http://link.springer.com/10.1007/978-3-540-72667-8{\_}34}.
+  \DOIprefix\doi{10.1007/978-3-540-72667-8_34}.
+%Type = Article
+\bibitem[{Xu et~al.(2017)Xu, Liu \& Song}]{Nomas123}
+\bibinfo{author}{Xu, X.}, \bibinfo{author}{Liu, C.}, \& \bibinfo{author}{Song,
+  D.} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{SQLNet: Generating Structured Queries From Natural
+  Language Without Reinforcement Learning}}.
+\newblock {\it \bibinfo{journal}{. CoRR}\/},  (pp. \bibinfo{pages}{1--13}).
+  \URLprefix \url{http://arxiv.org/abs/1711.04436}.
+  \href{http://arxiv.org/abs/1711.04436}{\tt arXiv:1711.04436}.
+%Type = Inproceedings
+\bibitem[{Yahya et~al.(2012)Yahya, Berberich \& Elbassuoni}]{Yahya2012}
+\bibinfo{author}{Yahya, M.}, \bibinfo{author}{Berberich, K.}, \&
+  \bibinfo{author}{Elbassuoni, S.} (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{{Natural Language Questions for the Web of Data}}.
+\newblock In {\it \bibinfo{booktitle}{EMNLP}\/} \bibinfo{number}{July} (pp.
+  \bibinfo{pages}{379--390}).
+\newblock \bibinfo{address}{Deanna12}.
+%Type = Inproceedings
+\bibitem[{Yu et~al.(2018)Yu, Yasunaga, Yang, Zhang, Wang, Li \& Radev}]{Yu2018}
+\bibinfo{author}{Yu, T.}, \bibinfo{author}{Yasunaga, M.},
+  \bibinfo{author}{Yang, K.}, \bibinfo{author}{Zhang, R.},
+  \bibinfo{author}{Wang, D.}, \bibinfo{author}{Li, Z.}, \&
+  \bibinfo{author}{Radev, D.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{SyntaxSQLNet: Syntax Tree Networks for Complex and
+  Cross-DomainText-to-SQL Task}}.
+\newblock In {\it \bibinfo{booktitle}{In Proceedings of the 2018 Conference on
+  Empirical Methods in Natural Language Processing}\/} (pp.
+  \bibinfo{pages}{1653--1663}).
+\newblock \URLprefix \url{http://arxiv.org/abs/1810.05237}.
+  \href{http://arxiv.org/abs/1810.05237}{\tt arXiv:1810.05237}.
+%Type = Article
+\bibitem[{Zhao et~al.(2017)Zhao, Zou, Wang, Yu \& Hu}]{g2018}
+\bibinfo{author}{Zhao, D.}, \bibinfo{author}{Zou, L.}, \bibinfo{author}{Wang,
+  H.}, \bibinfo{author}{Yu, J.~X.}, \& \bibinfo{author}{Hu, S.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{Answering Natural Language Questions by Subgraph
+  Matching over Knowledge Graphs}}.
+\newblock {\it \bibinfo{journal}{IEEE Transactions on Knowledge and Data
+  Engineering}\/},  {\it \bibinfo{volume}{30}\/}, \bibinfo{pages}{824--837}.
+  \DOIprefix\doi{10.1109/tkde.2017.2766634}.
+
+\end{thebibliography}

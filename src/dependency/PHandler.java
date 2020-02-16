@@ -13,7 +13,7 @@ import org.eclipse.jetty.server.handler.AbstractHandler;
 
 import qa.Globals;
 
-public class GinfoHandler  extends AbstractHandler{
+public class PHandler  extends AbstractHandler{
 
 	public static String errorHandle(String status,String message,String question,QueryLogger qlog){
 		JSONObject exobj = new JSONObject();

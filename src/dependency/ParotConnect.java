@@ -11,24 +11,24 @@ import java.io.UnsupportedEncodingException;
 import java.util.List;
 import java.util.Map;
 
-public class GanswerHttpConnector {
+public class ParotConnect {
 	public static final String defaultServerIP = "127.0.0.1";
     public static final int defaultServerPort = 9999;
     
     private String serverIP;
     private int serverPort;
     
-    public GanswerHttpConnector() {
+    public ParotConnect() {
         this.serverIP = GanswerHttpConnector.defaultServerIP;
         this.serverPort = GanswerHttpConnector.defaultServerPort;
     }
 
-    public GanswerHttpConnector(int _port) {
+    public ParotConnect(int _port) {
         this.serverIP = GanswerHttpConnector.defaultServerIP;
         this.serverPort = _port;
     }
 
-    public GanswerHttpConnector(String _ip, int _port) {
+    public ParotConnect(String _ip, int _port) {
         this.serverIP = _ip;
         this.serverPort = _port;
     }

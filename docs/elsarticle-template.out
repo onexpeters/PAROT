@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Literature Review}{}% 2
+\BOOKMARK [1][-]{section.3}{PAROT Architecture}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Step 1: Identifying targets.}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{ Targets in Wh based queries}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{ Targets in non-WH queries}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Step 2: Identifying user triple pattern}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{ Identifying user triple pattern in a relation based user query}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{ Identifying user query triple pattern in non-relation based user query}{subsection.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Step 3: Handling adjectives}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Scalar adjectives}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Non-scalar adjectives}{subsection.3.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Lexicon}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.5}{Step 4: Converting user triples to ontology triples}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Query Construction}{}% 15
+\BOOKMARK [1][-]{section.5}{Query Filters}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Logical Operators}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Adjectives}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.3}{Numbers}{section.5}% 19
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Numbered scalar adjectives}{subsection.5.3}% 20
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Numbered list}{subsection.5.3}% 21
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Negation}{subsection.5.3}% 22
+\BOOKMARK [1][-]{section.6}{Evaluation}{}% 23
+\BOOKMARK [2][-]{subsection.6.1}{Dataset}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.2}{Evalutation Metrics}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.3}{Results and Discussion}{section.6}% 26
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Simple questions results}{subsection.6.3}% 27
+\BOOKMARK [2][-]{subsection.6.4}{Complex questions results }{section.6}% 28
+\BOOKMARK [3][-]{subsubsection.6.4.1}{Results for QALD9 dataset}{subsection.6.4}% 29
+\BOOKMARK [3][-]{subsubsection.6.4.2}{Results of Geoquery dataset}{subsection.6.4}% 30
+\BOOKMARK [3][-]{subsubsection.6.4.3}{Weaknesses of PAROT}{subsection.6.4}% 31
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 32

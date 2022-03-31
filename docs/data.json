@@ -1,0 +1,55 @@
+[
+  {
+    "YEARS": 2018,
+    "YEARS_PRODUCTION": 43337.99,
+    "NDVI": 0.6881,
+    "SARVI": 1.1719,
+    "NPCRI":-0.1503,
+    "RVI": 5.7362,
+    "GCI": 2.9284
+    
+  },
+  {
+  	
+    "YEARS": 2017,
+    "YEARS_PRODUCTION": 18540.09,
+    "NDVI": 0.602,
+    "SARVI": 1.0939,
+    "NPCRI":-0.1594,
+    "RVI": 4.1584,
+    "GCI": 2.1299
+  },
+  {
+
+    "YEARS": 2018,
+    "YEARS_PRODUCTION": 51653.97,
+    "NDVI": 0.606,
+    "SARVI": 1.1452,
+    "NPCRI":-0.1868,
+    "RVI": 4.1708,
+    "GCI": 2.1041
+  },
+  {
+
+    "YEARS": 2019,
+    "YEARS_PRODUCTION": 26647.54,
+    "NDVI": 0.4987,
+    "SARVI": 0.7513,
+    "NPCRI":-0.0026,
+    "RVI":3.26,
+    "GCI": 1.7589
+  },
+  {
+  
+	
+     "YEARS": 2020,
+    "YEARS_PRODUCTION":44915.29,
+    "NDVI": 0.6733,
+    "SARVI": 1.0208,
+    "NPCRI":-0.01176,
+    "RVI":5.2827,
+    "GCI": 3.1674
+  }
+]
+  
+  
